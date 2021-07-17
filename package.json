@@ -1,5 +1,5 @@
 {
-  "name": "with-tailwindcss",
+  "name": "pm-fe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/forms": "^0.3.3",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
